@@ -15,13 +15,14 @@ Este repositorio contiene el análisis de datos exploratorio (EDA), limpieza, au
 
 ## 📁 Estructura del Repositorio
 
-```text
+
 ├── README.md                 # Descripción general e informe ejecutivo del proyecto
 ├── notebook_connectatel.ipynb # Jupyter Notebook estructurado con código y visualizaciones
 └── data/                     # Datasets analizados
     ├── plans.csv             # Información y límites de los planes de la empresa
     ├── users_latam.csv       # Perfil demográfico de los clientes (4,000 registros)
     └── usage.csv             # Registros de eventos de voz y mensajería (40,000 registros)
+    
 ---
 ## 🛠️ Tecnologías y Librerías Utilizadas
 
